@@ -1,0 +1,1607 @@
+[
+ {
+  "slug": "albania",
+  "flag": "https://flagcdn.com/w160/al.png",
+  "name_ar": "ألبانيا",
+  "name_en": "Albania",
+  "price": 5500,
+  "price_from": false,
+  "processing_ar": "25 يوم",
+  "processing_en": "25 days",
+  "validity_ar": "شهر",
+  "validity_en": "1 month",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   },
+   {
+    "ar": "خطاب وظيفي",
+    "en": "Employment letter"
+   },
+   {
+    "ar": "كشف بنكي 12 شهر",
+    "en": "12-month bank statement"
+   }
+  ],
+  "region": "أوروبا"
+ },
+ {
+  "slug": "algeria",
+  "flag": "https://flagcdn.com/w160/dz.png",
+  "name_ar": "الجزائر",
+  "name_en": "Algeria",
+  "price": 3500,
+  "price_from": false,
+  "processing_ar": "15 يوم",
+  "processing_en": "15 days",
+  "validity_ar": "شهر",
+  "validity_en": "1 month",
+  "type_ar": "تأشيرة ورقية",
+  "type_en": "Paper Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "كشف حساب (6 أشهر)",
+    "en": "Bank statement (6 months)"
+   },
+   {
+    "ar": "خطاب وظيفي",
+    "en": "Employment letter"
+   },
+   {
+    "ar": "صورتين خلفية بيضاء",
+    "en": "Two white-background photos"
+   },
+   {
+    "ar": "تأمين سياحي",
+    "en": "Travel insurance"
+   }
+  ],
+  "region": "أفريقيا"
+ },
+ {
+  "slug": "antigua-and-barbuda",
+  "flag": "https://flagcdn.com/w160/ag.png",
+  "name_ar": "أنتيغوا وبربودا",
+  "name_en": "Antigua & Barbuda",
+  "price": 6000,
+  "price_from": false,
+  "processing_ar": "15 يوم",
+  "processing_en": "15 days",
+  "validity_ar": "شهر",
+  "validity_en": "1 month",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   },
+   {
+    "ar": "كشف 6 أشهر",
+    "en": "6-month bank statement"
+   },
+   {
+    "ar": "خطاب عمل",
+    "en": "Employment letter"
+   },
+   {
+    "ar": "فيش جنائي",
+    "en": "Criminal record certificate"
+   }
+  ],
+  "region": "أمريكا الشمالية"
+ },
+ {
+  "slug": "australia",
+  "flag": "https://flagcdn.com/w160/au.png",
+  "name_ar": "أستراليا",
+  "name_en": "Australia",
+  "price": 13000,
+  "price_from": false,
+  "processing_ar": "من 30 يوم",
+  "processing_en": "From 30 days",
+  "validity_ar": "سنة متعددة",
+  "validity_en": "Multi-entry, 1 year",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   },
+   {
+    "ar": "إثبات مالي",
+    "en": "Proof of funds"
+   },
+   {
+    "ar": "تأمين طبي",
+    "en": "Medical insurance"
+   },
+   {
+    "ar": "أملاك في مصر",
+    "en": "Property ownership in Egypt"
+   }
+  ],
+  "region": "أوقيانوسيا"
+ },
+ {
+  "slug": "azerbaijan",
+  "flag": "https://flagcdn.com/w160/az.png",
+  "name_ar": "أذربيجان",
+  "name_en": "Azerbaijan",
+  "price": 3500,
+  "price_from": false,
+  "processing_ar": "15 يوم",
+  "processing_en": "15 days",
+  "validity_ar": "شهر",
+  "validity_en": "1 month",
+  "type_ar": "تأشيرة ورقية",
+  "type_en": "Paper Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "كشف حساب (6 أشهر)",
+    "en": "Bank statement (6 months)"
+   },
+   {
+    "ar": "خطاب وظيفي",
+    "en": "Employment letter"
+   },
+   {
+    "ar": "صورتين خلفية بيضاء",
+    "en": "Two white-background photos"
+   },
+   {
+    "ar": "تأمين سياحي",
+    "en": "Travel insurance"
+   }
+  ],
+  "region": "آسيا"
+ },
+ {
+  "slug": "bahamas",
+  "flag": "https://flagcdn.com/w160/bs.png",
+  "name_ar": "جزر البهاما",
+  "name_en": "Bahamas",
+  "price": 10500,
+  "price_from": false,
+  "processing_ar": "20 يوم",
+  "processing_en": "20 days",
+  "validity_ar": "3 أشهر",
+  "validity_en": "3 months",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   },
+   {
+    "ar": "خطاب وظيفي",
+    "en": "Employment letter"
+   },
+   {
+    "ar": "كشف حساب",
+    "en": "Bank statement"
+   },
+   {
+    "ar": "فيش جنائي",
+    "en": "Criminal record certificate"
+   },
+   {
+    "ar": "كشف طبي",
+    "en": "Medical report"
+   }
+  ],
+  "region": "أمريكا الشمالية"
+ },
+ {
+  "slug": "bahrain",
+  "flag": "https://flagcdn.com/w160/bh.png",
+  "name_ar": "البحرين",
+  "name_en": "Bahrain",
+  "price": 3700,
+  "price_from": true,
+  "processing_ar": "7 أيام",
+  "processing_en": "7 days",
+  "validity_ar": "أسبوعين",
+  "validity_en": "2 weeks",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "كشف حساب",
+    "en": "Bank statement"
+   }
+  ],
+  "region": "آسيا"
+ },
+ {
+  "slug": "bolivia",
+  "flag": "https://flagcdn.com/w160/bo.png",
+  "name_ar": "بوليفيا",
+  "name_en": "Bolivia",
+  "price": 2500,
+  "price_from": false,
+  "processing_ar": "7-10 أيام",
+  "processing_en": "7–10 days",
+  "validity_ar": "حسب السفارة",
+  "validity_en": "Depends on embassy",
+  "type_ar": "تأشيرة ورقية",
+  "type_en": "Paper Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   },
+   {
+    "ar": "كشف حساب",
+    "en": "Bank statement"
+   },
+   {
+    "ar": "خطاب عمل",
+    "en": "Employment letter"
+   },
+   {
+    "ar": "تأمين",
+    "en": "Insurance"
+   }
+  ],
+  "region": "أمريكا الجنوبية"
+ },
+ {
+  "slug": "botswana",
+  "flag": "https://flagcdn.com/w160/bw.png",
+  "name_ar": "بتسوانا",
+  "name_en": "Botswana",
+  "price": 5000,
+  "price_from": true,
+  "processing_ar": "5 أيام",
+  "processing_en": "5 days",
+  "validity_ar": "شهر",
+  "validity_en": "1 month",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   }
+  ],
+  "region": "أفريقيا"
+ },
+ {
+  "slug": "brazil",
+  "flag": "https://flagcdn.com/w160/br.png",
+  "name_ar": "البرازيل",
+  "name_en": "Brazil",
+  "price": 4000,
+  "price_from": false,
+  "processing_ar": "حسب الموعد",
+  "processing_en": "Depends on appointment",
+  "validity_ar": "حسب السفارة",
+  "validity_en": "Depends on embassy",
+  "type_ar": "تأشيرة ورقية",
+  "type_en": "Paper Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   },
+   {
+    "ar": "كشف حساب",
+    "en": "Bank statement"
+   },
+   {
+    "ar": "خطاب عمل",
+    "en": "Employment letter"
+   },
+   {
+    "ar": "تأمين",
+    "en": "Insurance"
+   },
+   {
+    "ar": "فيش جنائي",
+    "en": "Criminal record certificate"
+   }
+  ],
+  "region": "أمريكا الجنوبية"
+ },
+ {
+  "slug": "cambodia",
+  "flag": "https://flagcdn.com/w160/kh.png",
+  "name_ar": "كمبوديا",
+  "name_en": "Cambodia",
+  "price": 3700,
+  "price_from": false,
+  "processing_ar": "7 أيام",
+  "processing_en": "7 days",
+  "validity_ar": "شهر",
+  "validity_en": "1 month",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   }
+  ],
+  "region": "آسيا"
+ },
+ {
+  "slug": "chile",
+  "flag": "https://flagcdn.com/w160/cl.png",
+  "name_ar": "تشيلي",
+  "name_en": "Chile",
+  "price": 3500,
+  "price_from": false,
+  "processing_ar": "15 يوم",
+  "processing_en": "15 days",
+  "validity_ar": "شهر",
+  "validity_en": "1 month",
+  "type_ar": "تأشيرة ورقية",
+  "type_en": "Paper Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "كشف حساب (6 أشهر)",
+    "en": "Bank statement (6 months)"
+   },
+   {
+    "ar": "خطاب وظيفي",
+    "en": "Employment letter"
+   },
+   {
+    "ar": "صورتين خلفية بيضاء",
+    "en": "Two white-background photos"
+   },
+   {
+    "ar": "تأمين سياحي",
+    "en": "Travel insurance"
+   }
+  ],
+  "region": "أمريكا الجنوبية"
+ },
+ {
+  "slug": "china",
+  "flag": "https://flagcdn.com/w160/cn.png",
+  "name_ar": "الصين",
+  "name_en": "China",
+  "price": 2500,
+  "price_from": false,
+  "processing_ar": "10 أيام",
+  "processing_en": "10 days",
+  "validity_ar": "حسب السفارة",
+  "validity_en": "Depends on embassy",
+  "type_ar": "تأشيرة ورقية",
+  "type_en": "Paper Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   },
+   {
+    "ar": "كشف حساب",
+    "en": "Bank statement"
+   },
+   {
+    "ar": "خطاب وظيفي",
+    "en": "Employment letter"
+   }
+  ],
+  "region": "آسيا"
+ },
+ {
+  "slug": "colombia",
+  "flag": "https://flagcdn.com/w160/co.png",
+  "name_ar": "كولومبيا",
+  "name_en": "Colombia",
+  "price": 6500,
+  "price_from": false,
+  "processing_ar": "20 يوم",
+  "processing_en": "20 days",
+  "validity_ar": "3 أشهر",
+  "validity_en": "3 months",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   },
+   {
+    "ar": "كشف حساب",
+    "en": "Bank statement"
+   },
+   {
+    "ar": "خطاب عمل",
+    "en": "Employment letter"
+   }
+  ],
+  "region": "أمريكا الجنوبية"
+ },
+ {
+  "slug": "cuba",
+  "flag": "https://flagcdn.com/w160/cu.png",
+  "name_ar": "كوبا",
+  "name_en": "Cuba",
+  "price": 7000,
+  "price_from": true,
+  "processing_ar": "48 ساعة",
+  "processing_en": "48 hours",
+  "validity_ar": "3 أشهر",
+  "validity_en": "3 months",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "صورة جواز",
+    "en": "Passport photo copy"
+   }
+  ],
+  "region": "أمريكا الشمالية"
+ },
+ {
+  "slug": "cyprus",
+  "flag": "https://flagcdn.com/w160/cy.png",
+  "name_ar": "قبرص",
+  "name_en": "Cyprus",
+  "price": 3500,
+  "price_from": false,
+  "processing_ar": "15 يوم",
+  "processing_en": "15 days",
+  "validity_ar": "شهر",
+  "validity_en": "1 month",
+  "type_ar": "تأشيرة ورقية",
+  "type_en": "Paper Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "كشف حساب (6 أشهر)",
+    "en": "Bank statement (6 months)"
+   },
+   {
+    "ar": "خطاب وظيفي",
+    "en": "Employment letter"
+   },
+   {
+    "ar": "صورتين خلفية بيضاء",
+    "en": "Two white-background photos"
+   },
+   {
+    "ar": "تأمين سياحي",
+    "en": "Travel insurance"
+   }
+  ],
+  "region": "آسيا"
+ },
+ {
+  "slug": "djibouti",
+  "flag": "https://flagcdn.com/w160/dj.png",
+  "name_ar": "جيبوتي",
+  "name_en": "Djibouti",
+  "price": 2500,
+  "price_from": true,
+  "processing_ar": "5 أيام",
+  "processing_en": "5 days",
+  "validity_ar": "15 يوم",
+  "validity_en": "15 days",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   }
+  ],
+  "region": "أفريقيا"
+ },
+ {
+  "slug": "dominican-republic",
+  "flag": "https://flagcdn.com/w160/do.png",
+  "name_ar": "الدومينيكان",
+  "name_en": "Dominican Republic",
+  "price": 3500,
+  "price_from": false,
+  "processing_ar": "15 يوم",
+  "processing_en": "15 days",
+  "validity_ar": "شهر",
+  "validity_en": "1 month",
+  "type_ar": "تأشيرة ورقية",
+  "type_en": "Paper Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "كشف حساب (6 أشهر)",
+    "en": "Bank statement (6 months)"
+   },
+   {
+    "ar": "خطاب وظيفي",
+    "en": "Employment letter"
+   },
+   {
+    "ar": "صورتين خلفية بيضاء",
+    "en": "Two white-background photos"
+   },
+   {
+    "ar": "تأمين سياحي",
+    "en": "Travel insurance"
+   }
+  ],
+  "region": "أمريكا الشمالية"
+ },
+ {
+  "slug": "ecuador",
+  "flag": "https://flagcdn.com/w160/ec.png",
+  "name_ar": "الإكوادور",
+  "name_en": "Ecuador",
+  "price": 3500,
+  "price_from": false,
+  "processing_ar": "15 يوم",
+  "processing_en": "15 days",
+  "validity_ar": "شهر",
+  "validity_en": "1 month",
+  "type_ar": "تأشيرة ورقية",
+  "type_en": "Paper Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "كشف حساب (6 أشهر)",
+    "en": "Bank statement (6 months)"
+   },
+   {
+    "ar": "خطاب وظيفي",
+    "en": "Employment letter"
+   },
+   {
+    "ar": "صورتين خلفية بيضاء",
+    "en": "Two white-background photos"
+   },
+   {
+    "ar": "تأمين سياحي",
+    "en": "Travel insurance"
+   }
+  ],
+  "region": "أمريكا الجنوبية"
+ },
+ {
+  "slug": "equatorial-guinea",
+  "flag": "https://flagcdn.com/w160/gq.png",
+  "name_ar": "غينيا الاستوائية",
+  "name_en": "Equatorial Guinea",
+  "price": 7500,
+  "price_from": false,
+  "processing_ar": "5 أيام",
+  "processing_en": "5 days",
+  "validity_ar": "3 أشهر",
+  "validity_en": "3 months",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   }
+  ],
+  "region": "أفريقيا"
+ },
+ {
+  "slug": "georgia",
+  "flag": "https://flagcdn.com/w160/ge.png",
+  "name_ar": "جورجيا",
+  "name_en": "Georgia",
+  "price": 2800,
+  "price_from": false,
+  "processing_ar": "7 أيام",
+  "processing_en": "7 days",
+  "validity_ar": "شهر",
+  "validity_en": "1 month",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   }
+  ],
+  "region": "آسيا"
+ },
+ {
+  "slug": "guyana",
+  "flag": "https://flagcdn.com/w160/gy.png",
+  "name_ar": "غويانا",
+  "name_en": "Guyana",
+  "price": 6500,
+  "price_from": false,
+  "processing_ar": "15 يوم",
+  "processing_en": "15 days",
+  "validity_ar": "3 أشهر",
+  "validity_en": "3 months",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   },
+   {
+    "ar": "كشف 6 أشهر",
+    "en": "6-month bank statement"
+   },
+   {
+    "ar": "خطاب عمل",
+    "en": "Employment letter"
+   },
+   {
+    "ar": "فيش جنائي",
+    "en": "Criminal record certificate"
+   }
+  ],
+  "region": "أمريكا الجنوبية"
+ },
+ {
+  "slug": "indonesia",
+  "flag": "https://flagcdn.com/w160/id.png",
+  "name_ar": "إندونيسيا",
+  "name_en": "Indonesia",
+  "price": 4000,
+  "price_from": false,
+  "processing_ar": "5 أيام",
+  "processing_en": "5 days",
+  "validity_ar": "شهر",
+  "validity_en": "1 month",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   }
+  ],
+  "region": "آسيا"
+ },
+ {
+  "slug": "japan",
+  "flag": "https://flagcdn.com/w160/jp.png",
+  "name_ar": "اليابان",
+  "name_en": "Japan",
+  "price": 2500,
+  "price_from": false,
+  "processing_ar": "10 أيام",
+  "processing_en": "10 days",
+  "validity_ar": "حسب السفارة",
+  "validity_en": "Depends on embassy",
+  "type_ar": "تأشيرة ورقية",
+  "type_en": "Paper Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "كشف 6 أشهر",
+    "en": "6-month bank statement"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   },
+   {
+    "ar": "خطاب عمل",
+    "en": "Employment letter"
+   },
+   {
+    "ar": "تأمين",
+    "en": "Insurance"
+   }
+  ],
+  "region": "آسيا"
+ },
+ {
+  "slug": "kenya",
+  "flag": "https://flagcdn.com/w160/ke.png",
+  "name_ar": "كينيا",
+  "name_en": "Kenya",
+  "price": 5000,
+  "price_from": false,
+  "processing_ar": "7 أيام",
+  "processing_en": "7 days",
+  "validity_ar": "3 أشهر",
+  "validity_en": "3 months",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   }
+  ],
+  "region": "أفريقيا"
+ },
+ {
+  "slug": "kyrgyzstan",
+  "flag": "https://flagcdn.com/w160/kg.png",
+  "name_ar": "قيرغيزستان",
+  "name_en": "Kyrgyzstan",
+  "price": 5500,
+  "price_from": false,
+  "processing_ar": "15 يوم",
+  "processing_en": "15 days",
+  "validity_ar": "شهر",
+  "validity_en": "1 month",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   }
+  ],
+  "region": "آسيا"
+ },
+ {
+  "slug": "laos",
+  "flag": "https://flagcdn.com/w160/la.png",
+  "name_ar": "لاوس",
+  "name_en": "Laos",
+  "price": 5000,
+  "price_from": false,
+  "processing_ar": "10 أيام",
+  "processing_en": "10 days",
+  "validity_ar": "شهر",
+  "validity_en": "1 month",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   }
+  ],
+  "region": "آسيا"
+ },
+ {
+  "slug": "madagascar",
+  "flag": "https://flagcdn.com/w160/mg.png",
+  "name_ar": "مدغشقر",
+  "name_en": "Madagascar",
+  "price": 4500,
+  "price_from": false,
+  "processing_ar": "5 أيام",
+  "processing_en": "5 days",
+  "validity_ar": "شهر",
+  "validity_en": "1 month",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   }
+  ],
+  "region": "أفريقيا"
+ },
+ {
+  "slug": "malawi",
+  "flag": "https://flagcdn.com/w160/mw.png",
+  "name_ar": "مالاوي",
+  "name_en": "Malawi",
+  "price": 5500,
+  "price_from": true,
+  "processing_ar": "10 أيام",
+  "processing_en": "10 days",
+  "validity_ar": "شهر",
+  "validity_en": "1 month",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   }
+  ],
+  "region": "أفريقيا"
+ },
+ {
+  "slug": "mauritania",
+  "flag": "https://flagcdn.com/w160/mr.png",
+  "name_ar": "موريتانيا",
+  "name_en": "Mauritania",
+  "price": 6000,
+  "price_from": false,
+  "processing_ar": "10 أيام",
+  "processing_en": "10 days",
+  "validity_ar": "3 أشهر",
+  "validity_en": "3 months",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   }
+  ],
+  "region": "أفريقيا"
+ },
+ {
+  "slug": "mauritius",
+  "flag": "https://flagcdn.com/w160/mu.png",
+  "name_ar": "موريشيوس",
+  "name_en": "Mauritius",
+  "price": 4500,
+  "price_from": false,
+  "processing_ar": "5 أيام",
+  "processing_en": "5 days",
+  "validity_ar": "3 أشهر",
+  "validity_en": "3 months",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   }
+  ],
+  "region": "أفريقيا"
+ },
+ {
+  "slug": "mozambique",
+  "flag": "https://flagcdn.com/w160/mz.png",
+  "name_ar": "موزمبيق",
+  "name_en": "Mozambique",
+  "price": 6500,
+  "price_from": false,
+  "processing_ar": "10 أيام",
+  "processing_en": "10 days",
+  "validity_ar": "شهر",
+  "validity_en": "1 month",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   }
+  ],
+  "region": "أفريقيا"
+ },
+ {
+  "slug": "myanmar",
+  "flag": "https://flagcdn.com/w160/mm.png",
+  "name_ar": "ميانمار",
+  "name_en": "Myanmar",
+  "price": 5000,
+  "price_from": false,
+  "processing_ar": "5 أيام",
+  "processing_en": "5 days",
+  "validity_ar": "شهر",
+  "validity_en": "1 month",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   }
+  ],
+  "region": "آسيا"
+ },
+ {
+  "slug": "nepal",
+  "flag": "https://flagcdn.com/w160/np.png",
+  "name_ar": "نيبال",
+  "name_en": "Nepal",
+  "price": 5000,
+  "price_from": false,
+  "processing_ar": "5 أيام",
+  "processing_en": "5 days",
+  "validity_ar": "شهر",
+  "validity_en": "1 month",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   }
+  ],
+  "region": "آسيا"
+ },
+ {
+  "slug": "new-zealand",
+  "flag": "https://flagcdn.com/w160/nz.png",
+  "name_ar": "نيوزيلندا",
+  "name_en": "New Zealand",
+  "price": 20000,
+  "price_from": false,
+  "processing_ar": "30 يوم عمل",
+  "processing_en": "30 working days",
+  "validity_ar": "حسب السفارة",
+  "validity_en": "Depends on embassy",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   },
+   {
+    "ar": "إثبات مالي",
+    "en": "Proof of funds"
+   },
+   {
+    "ar": "تأمين طبي",
+    "en": "Medical insurance"
+   },
+   {
+    "ar": "أملاك",
+    "en": "Property ownership proof"
+   },
+   {
+    "ar": "تأشيرات سابقة",
+    "en": "Previous visas"
+   }
+  ],
+  "region": "أوقيانوسيا"
+ },
+ {
+  "slug": "philippines",
+  "flag": "https://flagcdn.com/w160/ph.png",
+  "name_ar": "الفلبين",
+  "name_en": "Philippines",
+  "price": 5500,
+  "price_from": false,
+  "processing_ar": "7 أيام",
+  "processing_en": "7 days",
+  "validity_ar": "30 يوم",
+  "validity_en": "30 days",
+  "type_ar": "تأشيرة ورقية",
+  "type_en": "Paper Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   },
+   {
+    "ar": "خطاب عمل",
+    "en": "Employment letter"
+   },
+   {
+    "ar": "كشف حساب",
+    "en": "Bank statement"
+   }
+  ],
+  "region": "آسيا"
+ },
+ {
+  "slug": "serbia",
+  "flag": "https://flagcdn.com/w160/rs.png",
+  "name_ar": "صربيا",
+  "name_en": "Serbia",
+  "price": 3500,
+  "price_from": false,
+  "processing_ar": "15 يوم",
+  "processing_en": "15 days",
+  "validity_ar": "شهر",
+  "validity_en": "1 month",
+  "type_ar": "تأشيرة ورقية",
+  "type_en": "Paper Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "كشف حساب (6 أشهر)",
+    "en": "Bank statement (6 months)"
+   },
+   {
+    "ar": "خطاب وظيفي",
+    "en": "Employment letter"
+   },
+   {
+    "ar": "صورتين خلفية بيضاء",
+    "en": "Two white-background photos"
+   },
+   {
+    "ar": "تأمين سياحي",
+    "en": "Travel insurance"
+   }
+  ],
+  "region": "أوروبا"
+ },
+ {
+  "slug": "seychelles",
+  "flag": "https://flagcdn.com/w160/sc.png",
+  "name_ar": "سيشل",
+  "name_en": "Seychelles",
+  "price": 5000,
+  "price_from": false,
+  "processing_ar": "5 أيام",
+  "processing_en": "5 days",
+  "validity_ar": "3 أشهر",
+  "validity_en": "3 months",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   }
+  ],
+  "region": "أفريقيا"
+ },
+ {
+  "slug": "sierra-leone",
+  "flag": "https://flagcdn.com/w160/sl.png",
+  "name_ar": "سيراليون",
+  "name_en": "Sierra Leone",
+  "price": 5500,
+  "price_from": false,
+  "processing_ar": "10 أيام",
+  "processing_en": "10 days",
+  "validity_ar": "شهر",
+  "validity_en": "1 month",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   }
+  ],
+  "region": "أفريقيا"
+ },
+ {
+  "slug": "singapore",
+  "flag": "https://flagcdn.com/w160/sg.png",
+  "name_ar": "سنغافورة",
+  "name_en": "Singapore",
+  "price": 5500,
+  "price_from": false,
+  "processing_ar": "7 أيام",
+  "processing_en": "7 days",
+  "validity_ar": "شهر",
+  "validity_en": "1 month",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   },
+   {
+    "ar": "كشف حساب",
+    "en": "Bank statement"
+   }
+  ],
+  "region": "آسيا"
+ },
+ {
+  "slug": "st-kitts-and-nevis",
+  "flag": "https://flagcdn.com/w160/kn.png",
+  "name_ar": "سانت كيتس",
+  "name_en": "St. Kitts & Nevis",
+  "price": 8000,
+  "price_from": false,
+  "processing_ar": "15 يوم",
+  "processing_en": "15 days",
+  "validity_ar": "3 أشهر",
+  "validity_en": "3 months",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   },
+   {
+    "ar": "كشف حساب",
+    "en": "Bank statement"
+   },
+   {
+    "ar": "خطاب وظيفي",
+    "en": "Employment letter"
+   }
+  ],
+  "region": "أمريكا الشمالية"
+ },
+ {
+  "slug": "suriname",
+  "flag": "https://flagcdn.com/w160/sr.png",
+  "name_ar": "سورينام",
+  "name_en": "Suriname",
+  "price": 9000,
+  "price_from": true,
+  "processing_ar": "15 يوم",
+  "processing_en": "15 days",
+  "validity_ar": "3 أشهر",
+  "validity_en": "3 months",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   },
+   {
+    "ar": "خطاب وظيفي",
+    "en": "Employment letter"
+   },
+   {
+    "ar": "كشف حساب",
+    "en": "Bank statement"
+   }
+  ],
+  "region": "أمريكا الجنوبية"
+ },
+ {
+  "slug": "tajikistan",
+  "flag": "https://flagcdn.com/w160/tj.png",
+  "name_ar": "طاجيكستان",
+  "name_en": "Tajikistan",
+  "price": 3700,
+  "price_from": false,
+  "processing_ar": "14 يوم",
+  "processing_en": "14 days",
+  "validity_ar": "شهرين",
+  "validity_en": "2 months",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   }
+  ],
+  "region": "آسيا"
+ },
+ {
+  "slug": "tanzania",
+  "flag": "https://flagcdn.com/w160/tz.png",
+  "name_ar": "تنزانيا",
+  "name_en": "Tanzania",
+  "price": 5500,
+  "price_from": false,
+  "processing_ar": "15 يوم",
+  "processing_en": "15 days",
+  "validity_ar": "3 أشهر",
+  "validity_en": "3 months",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   }
+  ],
+  "region": "أفريقيا"
+ },
+ {
+  "slug": "thailand",
+  "flag": "https://flagcdn.com/w160/th.png",
+  "name_ar": "تايلاند",
+  "name_en": "Thailand",
+  "price": 3500,
+  "price_from": false,
+  "processing_ar": "15 يوم",
+  "processing_en": "15 days",
+  "validity_ar": "شهرين",
+  "validity_en": "2 months",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   },
+   {
+    "ar": "خطاب عمل",
+    "en": "Employment letter"
+   },
+   {
+    "ar": "تأمين",
+    "en": "Insurance"
+   },
+   {
+    "ar": "كشف حساب",
+    "en": "Bank statement"
+   }
+  ],
+  "region": "آسيا"
+ },
+ {
+  "slug": "togo",
+  "flag": "https://flagcdn.com/w160/tg.png",
+  "name_ar": "توغو",
+  "name_en": "Togo",
+  "price": 6500,
+  "price_from": true,
+  "processing_ar": "10 أيام",
+  "processing_en": "10 days",
+  "validity_ar": "شهر",
+  "validity_en": "1 month",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   }
+  ],
+  "region": "أفريقيا"
+ },
+ {
+  "slug": "trinidad-and-tobago",
+  "flag": "https://flagcdn.com/w160/tt.png",
+  "name_ar": "ترينيداد وتوباغو",
+  "name_en": "Trinidad & Tobago",
+  "price": 6000,
+  "price_from": false,
+  "processing_ar": "15 يوم",
+  "processing_en": "15 days",
+  "validity_ar": "3 أشهر",
+  "validity_en": "3 months",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   },
+   {
+    "ar": "كشف 6 أشهر",
+    "en": "6-month bank statement"
+   },
+   {
+    "ar": "خطاب عمل",
+    "en": "Employment letter"
+   },
+   {
+    "ar": "تأمين",
+    "en": "Insurance"
+   }
+  ],
+  "region": "أمريكا الجنوبية"
+ },
+ {
+  "slug": "tunisia",
+  "flag": "https://flagcdn.com/w160/tn.png",
+  "name_ar": "تونس",
+  "name_en": "Tunisia",
+  "price": 3500,
+  "price_from": false,
+  "processing_ar": "15 يوم",
+  "processing_en": "15 days",
+  "validity_ar": "شهر",
+  "validity_en": "1 month",
+  "type_ar": "تأشيرة ورقية",
+  "type_en": "Paper Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "كشف حساب (6 أشهر)",
+    "en": "Bank statement (6 months)"
+   },
+   {
+    "ar": "خطاب وظيفي",
+    "en": "Employment letter"
+   },
+   {
+    "ar": "صورتين خلفية بيضاء",
+    "en": "Two white-background photos"
+   },
+   {
+    "ar": "تأمين سياحي",
+    "en": "Travel insurance"
+   }
+  ],
+  "region": "أفريقيا"
+ },
+ {
+  "slug": "turkey",
+  "flag": "https://flagcdn.com/w160/tr.png",
+  "name_ar": "تركيا",
+  "name_en": "Turkey",
+  "price": 2950,
+  "price_from": false,
+  "processing_ar": "أقل من ساعة",
+  "processing_en": "Under an hour",
+  "validity_ar": "شهر",
+  "validity_en": "1 month",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   },
+   {
+    "ar": "متاحة لمن هو أقل من 15 سنة أو أكبر من 45 سنة، أو لمن بين 15 و45 سنة بشرط وجود تأشيرة سارية أو إقامة في (شنغن / أمريكا / بريطانيا / أيرلندا)",
+    "en": "Available for under 15 or over 45 years old, or between 15-45 with valid Schengen/US/UK/Ireland visa or residency"
+   }
+  ],
+  "region": "آسيا"
+ },
+ {
+  "slug": "uganda",
+  "flag": "https://flagcdn.com/w160/ug.png",
+  "name_ar": "أوغندا",
+  "name_en": "Uganda",
+  "price": 5500,
+  "price_from": false,
+  "processing_ar": "10 أيام",
+  "processing_en": "10 days",
+  "validity_ar": "3 أشهر",
+  "validity_en": "3 months",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   }
+  ],
+  "region": "أفريقيا"
+ },
+ {
+  "slug": "uzbekistan",
+  "flag": "https://flagcdn.com/w160/uz.png",
+  "name_ar": "أوزبكستان",
+  "name_en": "Uzbekistan",
+  "price": 3500,
+  "price_from": false,
+  "processing_ar": "5 أيام",
+  "processing_en": "5 days",
+  "validity_ar": "شهر",
+  "validity_en": "1 month",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   }
+  ],
+  "region": "آسيا"
+ },
+ {
+  "slug": "vietnam",
+  "flag": "https://flagcdn.com/w160/vn.png",
+  "name_ar": "فيتنام",
+  "name_en": "Vietnam",
+  "price": 4500,
+  "price_from": true,
+  "processing_ar": "10 أيام",
+  "processing_en": "10 days",
+  "validity_ar": "شهر",
+  "validity_en": "1 month",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   }
+  ],
+  "region": "آسيا"
+ },
+ {
+  "slug": "zambia",
+  "flag": "https://flagcdn.com/w160/zm.png",
+  "name_ar": "زامبيا",
+  "name_en": "Zambia",
+  "price": 3700,
+  "price_from": false,
+  "processing_ar": "7 أيام",
+  "processing_en": "7 days",
+  "validity_ar": "3 أشهر",
+  "validity_en": "3 months",
+  "type_ar": "تأشيرة إلكترونية",
+  "type_en": "E-Visa",
+  "docs": [
+   {
+    "ar": "جواز",
+    "en": "Passport"
+   },
+   {
+    "ar": "صورة",
+    "en": "Photo"
+   }
+  ],
+  "region": "أفريقيا"
+ }
+]
